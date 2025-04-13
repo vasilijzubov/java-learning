@@ -6,7 +6,7 @@ public class variables {
         long longNumber = 11110*11000L;
         float floatNumber = 43023F;
         double myDoubleNumber = 328.54;
-        boolean myBooleanNumber = true;
+        boolean myBooleanNumber = 5>3;//true
         char myCharNumber = 'C';
 
 
